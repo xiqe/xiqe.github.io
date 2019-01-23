@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-12-【研究与总结】关于前端请求的那些事.md" afterPath="$PROJECT_DIR$/_posts/2018-11-12-【研究与总结】关于前端请求的那些事.md" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-art.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-geek.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-o.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-2015.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-BJJ.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" afterPath="" />
-    </list>
+    <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -287,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="3173000" />
+      <workItem from="1548239203066" duration="3272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3173000" />
+    <option name="totallyTimeSpent" value="3272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
