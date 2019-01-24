@@ -3,8 +3,8 @@ title: Jerry Blog
 SEOTitle: 杰瑞的博客 | Jerry Blog
 header-img: img/post-bg-desk.jpg
 email: liangwenqi1126@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 杰瑞的博客, liangwenqi, iOS, Apple, iPhone"
+description: "专注于前端领域，学习，记录与分享技术资源"
+keyword: "Jerry, Jerry Blog, 杰瑞的博客, 前端技术, 前端笔记, Html5, Javascript, css3"
 url: "http://xiqe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiqe/xiqe.github.io" # you code repository
