@@ -18,11 +18,9 @@ sidebar-avatar: /img/about-BY-gentle.png      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: true
-weibo_username:     xiqe
-#zhihu_username:     xiqe
+zhihu_username:     holamundo
 github_username:    xiqe
 facebook_username:  1821199290
-#twitter_username:   xiqe
 
 
 
