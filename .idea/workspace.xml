@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pwa/manifest.json" afterPath="$PROJECT_DIR$/pwa/manifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -143,22 +144,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-20-前端响应式布局解决方案.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-20-前端响应式布局解决方案.md">
+      <file leaf-file-name="2019-01-23-【笔记】Git常用命令汇总.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-719">
-                <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -201,6 +202,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-11-12-【研究与总结】关于前端请求的那些事.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/pwa/manifest.json" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md" />
       </list>
     </option>
   </component>
@@ -307,8 +309,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -337,12 +339,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="7766000" />
+      <workItem from="1548239203066" duration="9181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7766000" />
+    <option name="totallyTimeSpent" value="9181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -663,9 +665,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
