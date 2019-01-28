@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md" afterPath="$PROJECT_DIR$/_posts/2019-01-28-CSS实现水平垂直居中的10种方式.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,12 +59,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-26-CSS实现水平垂直居中的10种方式.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md">
+      <file leaf-file-name="2019-01-28-CSS实现水平垂直居中的10种方式.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-CSS实现水平垂直居中的10种方式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="210">
-                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
                 <folding>
                   <marker date="1548647792109" expanded="true" signature="883:918" ph="..." />
                   <marker date="1548647792109" expanded="true" signature="913:918" ph="..." />
@@ -113,6 +112,60 @@
               <first_editor relative-caret-position="-1639">
                 <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-11-12-【研究与总结】关于前端请求的那些事.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-12-【研究与总结】关于前端请求的那些事.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="3420">
+                <caret line="228" column="0" lean-forward="true" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+                <folding>
+                  <marker date="1548381965062" expanded="true" signature="1124:1179" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1211:1376" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1225:1277" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1288:1374" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1298:1357" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1386:1664" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1471:1541" ph="//..." />
+                  <marker date="1548381965062" expanded="true" signature="1722:1856" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1788:1818" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="1824:1854" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="2015:2148" ph="{&quot;type&quot;: 'POST'...}" />
+                  <marker date="1548381965062" expanded="true" signature="2525:2554" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="2576:2600" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="2620:2653" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="3408:3456" ph="{&quot;jsonpCallback&quot;: 'callback'...}" />
+                  <marker date="1548381965062" expanded="true" signature="3482:3517" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="3537:3557" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="3647:3722" ph="{&quot;credentials&quot;: 'include'...}" />
+                  <marker date="1548381965062" expanded="true" signature="4681:4717" ph="{&quot;method&quot;: 'GET'...}" />
+                  <marker date="1548381965062" expanded="true" signature="4839:4871" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="4899:4928" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5038:5070" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5098:5127" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5302:5569" ph="{&quot;url&quot;: ''...}" />
+                  <marker date="1548381965062" expanded="true" signature="5360:5567" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5376:5559" ph="{&quot;url&quot;: ''...}" />
+                  <marker date="1548381965062" expanded="true" signature="5458:5549" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5483:5534" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5608:5674" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5688:5705" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5807:5858" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5866:5981" ph="{&quot;url&quot;: ''...}" />
+                  <marker date="1548381965062" expanded="true" signature="5924:5979" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="5990:6105" ph="{&quot;url&quot;: ''...}" />
+                  <marker date="1548381965062" expanded="true" signature="6048:6103" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="6114:6229" ph="{&quot;url&quot;: ''...}" />
+                  <marker date="1548381965062" expanded="true" signature="6172:6227" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="6259:6287" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="6307:6335" ph="{...}" />
+                  <marker date="1548381965062" expanded="true" signature="6413:6437" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -316,16 +369,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="20664000" />
+      <workItem from="1548239203066" duration="20782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20664000" />
+    <option name="totallyTimeSpent" value="20782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -333,7 +385,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -615,10 +667,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1639">
+            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-12-【研究与总结】关于前端请求的那些事.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-926">
+          <first_editor relative-caret-position="3420">
             <caret line="228" column="0" lean-forward="true" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
             <folding>
               <marker date="1548381965062" expanded="true" signature="1124:1179" ph="{...}" />
@@ -667,22 +730,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1639">
-            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-CSS实现水平垂直居中的10种方式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
-            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
             <folding>
               <marker date="1548647792109" expanded="true" signature="883:918" ph="..." />
               <marker date="1548647792109" expanded="true" signature="913:918" ph="..." />
