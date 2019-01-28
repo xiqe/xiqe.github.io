@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,16 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="63" lean-forward="true" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,12 +50,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="1850">
               <caret line="134" column="59" lean-forward="true" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="59" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-26-CSS实现水平垂直居中的10种方式.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <folding>
+                  <marker date="1548647792109" expanded="true" signature="883:918" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="913:918" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="1218:1253" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="1542:1577" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="1858:1893" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="2300:2345" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="2340:2345" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="2875:2967" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="2905:2960" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="2962:2967" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="3282:3403" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="3294:3394" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="3303:3381" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="3316:3371" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="3765:3790" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="3791:3874" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="3815:3867" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="4164:4166" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="4164:4198" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="4164:4203" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="4529:4569" ph="..." />
+                  <marker date="1548647792109" expanded="true" signature="4564:4569" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -85,63 +110,9 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
+              <first_editor relative-caret-position="-1639">
                 <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-11-12-【研究与总结】关于前端请求的那些事.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-12-【研究与总结】关于前端请求的那些事.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-926">
-                <caret line="228" column="0" lean-forward="true" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-                <folding>
-                  <marker date="1548381965062" expanded="true" signature="1124:1179" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1211:1376" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1225:1277" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1288:1374" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1298:1357" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1386:1664" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1471:1541" ph="//..." />
-                  <marker date="1548381965062" expanded="true" signature="1722:1856" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1788:1818" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="1824:1854" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="2015:2148" ph="{&quot;type&quot;: 'POST'...}" />
-                  <marker date="1548381965062" expanded="true" signature="2525:2554" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="2576:2600" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="2620:2653" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="3408:3456" ph="{&quot;jsonpCallback&quot;: 'callback'...}" />
-                  <marker date="1548381965062" expanded="true" signature="3482:3517" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="3537:3557" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="3647:3722" ph="{&quot;credentials&quot;: 'include'...}" />
-                  <marker date="1548381965062" expanded="true" signature="4681:4717" ph="{&quot;method&quot;: 'GET'...}" />
-                  <marker date="1548381965062" expanded="true" signature="4839:4871" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="4899:4928" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5038:5070" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5098:5127" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5302:5569" ph="{&quot;url&quot;: ''...}" />
-                  <marker date="1548381965062" expanded="true" signature="5360:5567" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5376:5559" ph="{&quot;url&quot;: ''...}" />
-                  <marker date="1548381965062" expanded="true" signature="5458:5549" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5483:5534" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5608:5674" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5688:5705" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5807:5858" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5866:5981" ph="{&quot;url&quot;: ''...}" />
-                  <marker date="1548381965062" expanded="true" signature="5924:5979" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="5990:6105" ph="{&quot;url&quot;: ''...}" />
-                  <marker date="1548381965062" expanded="true" signature="6048:6103" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="6114:6229" ph="{&quot;url&quot;: ''...}" />
-                  <marker date="1548381965062" expanded="true" signature="6172:6227" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="6259:6287" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="6307:6335" ph="{...}" />
-                  <marker date="1548381965062" expanded="true" signature="6413:6437" ph="{...}" />
-                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -154,19 +125,6 @@
             <state relative-caret-position="285">
               <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-01-23-【笔记】Git常用命令汇总.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -186,9 +144,9 @@
       <find>weib</find>
       <find>fa-facebook</find>
       <find>fetch-jsonp</find>
-      <find>可以引入fetch-jsonp</find>
-      <find>index.js</find>
       <find>zhihu_username</find>
+      <find>index.js</find>
+      <find>可以引入fetch-jsonp</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -216,6 +174,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md" />
       </list>
     </option>
   </component>
@@ -357,12 +316,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="13783000" />
+      <workItem from="1548239203066" duration="20664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13783000" />
+    <option name="totallyTimeSpent" value="20664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -586,25 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -621,6 +561,57 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1850">
+          <caret line="134" column="59" lean-forward="true" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="36" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-164">
+            <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -676,26 +667,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
+          <first_editor relative-caret-position="-1639">
             <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -703,19 +678,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="36" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="134" column="59" lean-forward="true" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="59" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding>
+              <marker date="1548647792109" expanded="true" signature="883:918" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="913:918" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="1218:1253" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="1542:1577" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="1858:1893" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="2300:2345" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="2340:2345" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="2875:2967" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="2905:2960" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="2962:2967" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="3282:3403" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="3294:3394" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="3303:3381" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="3316:3371" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="3765:3790" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="3791:3874" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="3815:3867" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="4164:4166" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="4164:4198" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="4164:4203" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="4529:4569" ph="..." />
+              <marker date="1548647792109" expanded="true" signature="4564:4569" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
