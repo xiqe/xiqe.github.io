@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-01-30-CSS经典类九宫格布局开放式面试题.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md" afterPath="$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="63" lean-forward="true" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="566">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,7 +33,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="131">
-                <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+                <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1850">
-              <caret line="134" column="59" lean-forward="true" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="59" />
+              <caret line="134" column="59" lean-forward="false" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -63,8 +55,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-CSS实现水平垂直居中的10种方式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <first_editor relative-caret-position="542">
+                <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="63" />
                 <folding>
                   <marker date="1548647792109" expanded="true" signature="883:918" ph="..." />
                   <marker date="1548647792109" expanded="true" signature="913:918" ph="..." />
@@ -99,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="36" selection-end-column="25" />
+              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="36" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -110,7 +102,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="-2539">
-                <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -122,8 +114,21 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+              <first_editor relative-caret-position="245">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-30-CSS经典类九宫格布局开放式面试题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-CSS经典类九宫格布局开放式面试题.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="421">
+                <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -136,7 +141,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="3420">
-                <caret line="228" column="0" lean-forward="true" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+                <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
                 <folding>
                   <marker date="1548381965062" expanded="true" signature="1124:1179" ph="{...}" />
                   <marker date="1548381965062" expanded="true" signature="1211:1376" ph="{...}" />
@@ -189,7 +194,7 @@
         <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -232,7 +237,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pwa/manifest.json" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_posts/2018-12-20-前端响应式布局解决方案.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md" />
@@ -241,6 +245,9 @@
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-30-CSS经典九宫格布局开放式面试题.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-30-CSS经典类九宫格布局开放式面试题.md" />
       </list>
     </option>
   </component>
@@ -382,12 +389,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="21004000" />
+      <workItem from="1548239203066" duration="24026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21004000" />
+    <option name="totallyTimeSpent" value="24026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -563,7 +570,7 @@
         <state relative-caret-position="154">
           <caret line="118" column="49" lean-forward="true" selection-start-line="118" selection-start-column="49" selection-end-line="118" selection-end-column="49" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -614,7 +621,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="63" lean-forward="true" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+          <caret line="2" column="63" lean-forward="false" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -623,7 +630,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="131">
-            <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+            <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
@@ -641,7 +648,7 @@
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1850">
-          <caret line="134" column="59" lean-forward="true" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="59" />
+          <caret line="134" column="59" lean-forward="false" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -649,7 +656,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="36" selection-end-column="25" />
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="36" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -657,7 +664,7 @@
     <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -666,7 +673,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3420">
-            <caret line="228" column="0" lean-forward="true" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+            <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
             <folding>
               <marker date="1548381965062" expanded="true" signature="1124:1179" ph="{...}" />
               <marker date="1548381965062" expanded="true" signature="1211:1376" ph="{...}" />
@@ -714,11 +721,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2539">
+            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <first_editor relative-caret-position="245">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -728,8 +754,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-CSS实现水平垂直居中的10种方式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <first_editor relative-caret-position="542">
+            <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="63" />
             <folding>
               <marker date="1548647792109" expanded="true" signature="883:918" ph="..." />
               <marker date="1548647792109" expanded="true" signature="913:918" ph="..." />
@@ -759,22 +785,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-CSS经典类九宫格布局开放式面试题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2539">
-            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <first_editor relative-caret-position="421">
+            <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
