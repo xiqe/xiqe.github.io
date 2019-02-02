@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" afterPath="$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -112,16 +113,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
                 <folding>
-                  <marker date="1549072512054" expanded="true" signature="394:676" ph="{...}" />
-                  <marker date="1549072512054" expanded="true" signature="496:654" ph="{...}" />
-                  <marker date="1549072512054" expanded="true" signature="585:650" ph="{...}" />
+                  <marker date="1549086292954" expanded="true" signature="410:692" ph="{...}" />
+                  <marker date="1549086292954" expanded="true" signature="512:670" ph="{...}" />
+                  <marker date="1549086292954" expanded="true" signature="601:666" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-02-03-【算法题】数组去重排序最大差值.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="174">
+                <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+                <folding>
+                  <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="398:429" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="597:624" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="763:857" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="805:854" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1018:1219" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1043:1200" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1084:1194" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1119:1184" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1361:1695" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1412:1677" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1475:1621" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1510:1611" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1641:1671" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="1838:1889" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="2038:2225" ph="{...}" />
+                  <marker date="1549151640627" expanded="true" signature="2108:2201" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -242,7 +274,10 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-30-CSS经典九宫格布局开放式面试题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-CSS经典类九宫格布局开放式面试题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-01-【重学前端】学习笔记.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重并排序.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md" />
       </list>
     </option>
   </component>
@@ -384,12 +419,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="27907000" />
+      <workItem from="1548239203066" duration="33418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27907000" />
+    <option name="totallyTimeSpent" value="33418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -805,12 +840,41 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             <folding>
-              <marker date="1549072512054" expanded="true" signature="394:676" ph="{...}" />
-              <marker date="1549072512054" expanded="true" signature="496:654" ph="{...}" />
-              <marker date="1549072512054" expanded="true" signature="585:650" ph="{...}" />
+              <marker date="1549086292954" expanded="true" signature="410:692" ph="{...}" />
+              <marker date="1549086292954" expanded="true" signature="512:670" ph="{...}" />
+              <marker date="1549086292954" expanded="true" signature="601:666" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <folding>
+              <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="398:429" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="597:624" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="763:857" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="805:854" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1018:1219" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1043:1200" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1084:1194" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1119:1184" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1361:1695" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1412:1677" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1475:1621" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1510:1611" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1641:1671" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1838:1889" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="2038:2225" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="2108:2201" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
