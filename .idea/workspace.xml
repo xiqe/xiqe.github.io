@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-02-12-【算法题】随机生成指定长度的字符串.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" afterPath="$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,16 +59,6 @@
                 </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="36" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -130,12 +119,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-02-03-【算法题】数组去重排序最大差值.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-02-03-【算法题】数组去重排序最大差值.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="174">
-                <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <first_editor relative-caret-position="-296">
+                <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
                 <folding>
                   <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
                   <marker date="1549151640627" expanded="true" signature="398:429" ph="{...}" />
@@ -154,6 +143,22 @@
                   <marker date="1549151640627" expanded="true" signature="1838:1889" ph="{...}" />
                   <marker date="1549151640627" expanded="true" signature="2038:2225" ph="{...}" />
                   <marker date="1549151640627" expanded="true" signature="2108:2201" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-02-12-【算法题】随机生成指定长度的字符串.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-12-【算法题】随机生成指定长度的字符串.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+                <folding>
+                  <marker date="1549973490407" expanded="true" signature="387:545" ph="{...}" />
+                  <marker date="1549973490407" expanded="true" signature="481:528" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -278,6 +283,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-02-02-【算法题】统计一个字符串出现频率最高的字母.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-12-【算法题】随机生成指定长度的字符串.md" />
       </list>
     </option>
   </component>
@@ -419,12 +425,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="33418000" />
+      <workItem from="1548239203066" duration="34494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33418000" />
+    <option name="totallyTimeSpent" value="34494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -855,8 +861,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="174">
-            <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <first_editor relative-caret-position="-296">
+            <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             <folding>
               <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
               <marker date="1549151640627" expanded="true" signature="398:429" ph="{...}" />
@@ -875,6 +881,20 @@
               <marker date="1549151640627" expanded="true" signature="1838:1889" ph="{...}" />
               <marker date="1549151640627" expanded="true" signature="2038:2225" ph="{...}" />
               <marker date="1549151640627" expanded="true" signature="2108:2201" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-12-【算法题】随机生成指定长度的字符串.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <folding>
+              <marker date="1549973490407" expanded="true" signature="387:545" ph="{...}" />
+              <marker date="1549973490407" expanded="true" signature="481:528" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
