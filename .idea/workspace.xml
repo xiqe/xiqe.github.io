@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md" afterPath="$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -180,68 +179,79 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <first_editor relative-caret-position="135">
+                <caret line="269" column="7" lean-forward="false" selection-start-line="269" selection-start-column="7" selection-end-line="269" selection-end-column="7" />
                 <folding>
-                  <marker date="1550038444846" expanded="true" signature="1580:1925" ph="[...]" />
-                  <marker date="1550038444846" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
-                  <marker date="1550038444846" expanded="true" signature="1702:1778" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="1928:2021" ph="[...]" />
-                  <marker date="1550038444846" expanded="true" signature="1956:2018" ph="{&quot;filename&quot;: 'index.css'...}" />
-                  <marker date="1550038444846" expanded="true" signature="2054:2729" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="2098:2236" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="2268:2409" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="2455:2725" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="2470:2719" ph="[...]" />
-                  <marker date="1550038444846" expanded="true" signature="2480:2549" ph="{&quot;loader&quot;: 'babel-loader'...}" />
-                  <marker date="1550038444846" expanded="true" signature="2559:2629" ph="{&quot;loader&quot;: 'json-loader'...}" />
-                  <marker date="1550038444846" expanded="true" signature="2639:2711" ph="{&quot;loader&quot;: 'ignore-loader'...}" />
-                  <marker date="1550038444846" expanded="true" signature="2761:3953" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="2774:2820" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="2834:3002" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="3044:3893" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="3059:3887" ph="[...]" />
-                  <marker date="1550038444846" expanded="true" signature="3071:3151" ph="{&quot;loader&quot;: 'json-loader'...}" />
-                  <marker date="1550038444846" expanded="true" signature="3152:3270" ph="{&quot;loader&quot;: 'babel-loader'...}" />
-                  <marker date="1550038444846" expanded="true" signature="3271:3496" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="3352:3483" ph="{&quot;fallback&quot;: 'style-loader'...}" />
-                  <marker date="1550038444846" expanded="true" signature="3497:3647" ph="{&quot;loader&quot;: 'file-loader?limit=2048&amp;name=assets/images/[name]_[hash:4].[ext]'...}" />
-                  <marker date="1550038444846" expanded="true" signature="3649:3879" ph="{&quot;loader&quot;: 'url'...}" />
-                  <marker date="1550038444846" expanded="true" signature="3757:3867" ph="{&quot;name&quot;: 'images/fonts/[name].[hash:4].[ext]'...}" />
-                  <marker date="1550038444846" expanded="true" signature="3908:3949" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="4258:4409" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="4286:4293" ph="&lt;ReduxProvider/&gt;" />
-                  <marker date="1550038444846" expanded="true" signature="4693:5117" ph="[...]" />
-                  <marker date="1550038444846" expanded="true" signature="4699:4771" ph="{&quot;path&quot;: &quot;/&quot;...}" />
-                  <marker date="1550038444846" expanded="true" signature="4777:4795" ph="{&quot;path&quot;: &quot;/about&quot;...}" />
-                  <marker date="1550038444846" expanded="true" signature="4777:4855" ph="{&quot;path&quot;: &quot;/intro&quot;...}" />
-                  <marker date="1550038444846" expanded="true" signature="4861:4943" ph="{&quot;path&quot;: &quot;/intro/:id&quot;...}" />
-                  <marker date="1550038444846" expanded="true" signature="4949:5034" ph="{&quot;path&quot;: &quot;/agreement&quot;...}" />
-                  <marker date="1550038444846" expanded="true" signature="5040:5115" ph="{&quot;path&quot;: &quot;/case&quot;...}" />
-                  <marker date="1550038444846" expanded="true" signature="5087:5115" ph="{&quot;path&quot;: &quot;/secret&quot;...}" />
-                  <marker date="1550038444846" expanded="true" signature="5246:5378" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="5252:5261" ph="/*...*/" />
-                  <marker date="1550038444846" expanded="true" signature="5277:5376" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="5350:5359" ph="/*...*/" />
-                  <marker date="1550038444846" expanded="true" signature="5449:5478" ph="{&quot;sample&quot;: state.data...}" />
-                  <marker date="1550038444846" expanded="true" signature="5510:5528" ph="{&quot;fetchSample&quot;: fetchSample...}" />
-                  <marker date="1550038444846" expanded="true" signature="5767:6709" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="6168:6705" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="6204:6399" ph="&lt;ReduxProvider/&gt;" />
-                  <marker date="1550038444846" expanded="true" signature="6252:6370" ph="&lt;StaticRouter/&gt;" />
-                  <marker date="1550038444846" expanded="true" signature="7018:7145" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="7018:8408" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="7033:7143" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="7063:7127" ph="&lt;Helmet/&gt;" />
-                  <marker date="1550038444846" expanded="true" signature="7146:7155" ph="/*...*/" />
-                  <marker date="1550038444846" expanded="true" signature="7209:8065" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="7215:7222" ph="/*...*/" />
-                  <marker date="1550038444846" expanded="true" signature="7524:8061" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="7560:7755" ph="&lt;ReduxProvider/&gt;" />
-                  <marker date="1550038444846" expanded="true" signature="7608:7726" ph="&lt;StaticRouter/&gt;" />
-                  <marker date="1550038444846" expanded="true" signature="8125:8408" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="8550:9224" ph="{...}" />
-                  <marker date="1550038444846" expanded="true" signature="9803:9849" ph="{&quot;interval&quot;: '1d'...}" />
+                  <marker date="1550038699678" expanded="true" signature="1580:1925" ph="[...]" />
+                  <marker date="1550038699678" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
+                  <marker date="1550038699678" expanded="true" signature="1702:1778" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="1928:2021" ph="[...]" />
+                  <marker date="1550038699678" expanded="true" signature="1956:2018" ph="{&quot;filename&quot;: 'index.css'...}" />
+                  <marker date="1550038699678" expanded="true" signature="2054:2729" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="2098:2236" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="2268:2409" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="2455:2725" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="2470:2719" ph="[...]" />
+                  <marker date="1550038699678" expanded="true" signature="2480:2549" ph="{&quot;loader&quot;: 'babel-loader'...}" />
+                  <marker date="1550038699678" expanded="true" signature="2559:2629" ph="{&quot;loader&quot;: 'json-loader'...}" />
+                  <marker date="1550038699678" expanded="true" signature="2639:2711" ph="{&quot;loader&quot;: 'ignore-loader'...}" />
+                  <marker date="1550038699678" expanded="true" signature="2761:3953" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="2774:2820" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="2834:3002" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="3044:3893" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="3059:3887" ph="[...]" />
+                  <marker date="1550038699678" expanded="true" signature="3071:3151" ph="{&quot;loader&quot;: 'json-loader'...}" />
+                  <marker date="1550038699678" expanded="true" signature="3152:3270" ph="{&quot;loader&quot;: 'babel-loader'...}" />
+                  <marker date="1550038699678" expanded="true" signature="3271:3496" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="3352:3483" ph="{&quot;fallback&quot;: 'style-loader'...}" />
+                  <marker date="1550038699678" expanded="true" signature="3497:3647" ph="{&quot;loader&quot;: 'file-loader?limit=2048&amp;name=assets/images/[name]_[hash:4].[ext]'...}" />
+                  <marker date="1550038699678" expanded="true" signature="3649:3879" ph="{&quot;loader&quot;: 'url'...}" />
+                  <marker date="1550038699678" expanded="true" signature="3757:3867" ph="{&quot;name&quot;: 'images/fonts/[name].[hash:4].[ext]'...}" />
+                  <marker date="1550038699678" expanded="true" signature="3908:3949" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="4258:4409" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="4286:4293" ph="&lt;ReduxProvider/&gt;" />
+                  <marker date="1550038699678" expanded="true" signature="4693:5117" ph="[...]" />
+                  <marker date="1550038699678" expanded="true" signature="4699:4771" ph="{&quot;path&quot;: &quot;/&quot;...}" />
+                  <marker date="1550038699678" expanded="true" signature="4777:4795" ph="{&quot;path&quot;: &quot;/about&quot;...}" />
+                  <marker date="1550038699678" expanded="true" signature="4777:4855" ph="{&quot;path&quot;: &quot;/intro&quot;...}" />
+                  <marker date="1550038699678" expanded="true" signature="4861:4943" ph="{&quot;path&quot;: &quot;/intro/:id&quot;...}" />
+                  <marker date="1550038699678" expanded="true" signature="4949:5034" ph="{&quot;path&quot;: &quot;/agreement&quot;...}" />
+                  <marker date="1550038699678" expanded="true" signature="5040:5115" ph="{&quot;path&quot;: &quot;/case&quot;...}" />
+                  <marker date="1550038699678" expanded="true" signature="5087:5115" ph="{&quot;path&quot;: &quot;/secret&quot;...}" />
+                  <marker date="1550038699678" expanded="true" signature="5246:5378" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="5252:5261" ph="/*...*/" />
+                  <marker date="1550038699678" expanded="true" signature="5277:5376" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="5350:5359" ph="/*...*/" />
+                  <marker date="1550038699678" expanded="true" signature="5449:5478" ph="{&quot;sample&quot;: state.data...}" />
+                  <marker date="1550038699678" expanded="true" signature="5510:5528" ph="{&quot;fetchSample&quot;: fetchSample...}" />
+                  <marker date="1550038699678" expanded="true" signature="5761:6703" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="6162:6699" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="6198:6393" ph="&lt;ReduxProvider/&gt;" />
+                  <marker date="1550038699678" expanded="true" signature="6228:6392" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="6246:6364" ph="&lt;StaticRouter/&gt;" />
+                  <marker date="1550038699678" expanded="true" signature="6300:6363" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="7006:7133" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="7006:8396" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="7021:7131" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="7051:7115" ph="&lt;Helmet/&gt;" />
+                  <marker date="1550038699678" expanded="true" signature="7058:7114" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="7134:7143" ph="/*...*/" />
+                  <marker date="1550038699678" expanded="true" signature="7197:8053" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="7203:7210" ph="/*...*/" />
+                  <marker date="1550038699678" expanded="true" signature="7512:8049" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="7548:7743" ph="&lt;ReduxProvider/&gt;" />
+                  <marker date="1550038699678" expanded="true" signature="7578:7742" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="7596:7714" ph="&lt;StaticRouter/&gt;" />
+                  <marker date="1550038699678" expanded="true" signature="7650:7713" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="8113:8396" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="8165:8395" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="8180:8359" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="8532:9206" ph="{...}" />
+                  <marker date="1550038699678" expanded="true" signature="8576:9198" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="8589:8933" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="8953:9186" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="9007:9085" ph="..." />
+                  <marker date="1550038699678" expanded="true" signature="9785:9831" ph="{&quot;interval&quot;: '1d'...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -447,12 +457,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="43597000" />
+      <workItem from="1548239203066" duration="43722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43597000" />
+    <option name="totallyTimeSpent" value="43722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -926,68 +936,79 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <first_editor relative-caret-position="135">
+            <caret line="269" column="7" lean-forward="false" selection-start-line="269" selection-start-column="7" selection-end-line="269" selection-end-column="7" />
             <folding>
-              <marker date="1550038444846" expanded="true" signature="1580:1925" ph="[...]" />
-              <marker date="1550038444846" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
-              <marker date="1550038444846" expanded="true" signature="1702:1778" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="1928:2021" ph="[...]" />
-              <marker date="1550038444846" expanded="true" signature="1956:2018" ph="{&quot;filename&quot;: 'index.css'...}" />
-              <marker date="1550038444846" expanded="true" signature="2054:2729" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="2098:2236" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="2268:2409" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="2455:2725" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="2470:2719" ph="[...]" />
-              <marker date="1550038444846" expanded="true" signature="2480:2549" ph="{&quot;loader&quot;: 'babel-loader'...}" />
-              <marker date="1550038444846" expanded="true" signature="2559:2629" ph="{&quot;loader&quot;: 'json-loader'...}" />
-              <marker date="1550038444846" expanded="true" signature="2639:2711" ph="{&quot;loader&quot;: 'ignore-loader'...}" />
-              <marker date="1550038444846" expanded="true" signature="2761:3953" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="2774:2820" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="2834:3002" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="3044:3893" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="3059:3887" ph="[...]" />
-              <marker date="1550038444846" expanded="true" signature="3071:3151" ph="{&quot;loader&quot;: 'json-loader'...}" />
-              <marker date="1550038444846" expanded="true" signature="3152:3270" ph="{&quot;loader&quot;: 'babel-loader'...}" />
-              <marker date="1550038444846" expanded="true" signature="3271:3496" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="3352:3483" ph="{&quot;fallback&quot;: 'style-loader'...}" />
-              <marker date="1550038444846" expanded="true" signature="3497:3647" ph="{&quot;loader&quot;: 'file-loader?limit=2048&amp;name=assets/images/[name]_[hash:4].[ext]'...}" />
-              <marker date="1550038444846" expanded="true" signature="3649:3879" ph="{&quot;loader&quot;: 'url'...}" />
-              <marker date="1550038444846" expanded="true" signature="3757:3867" ph="{&quot;name&quot;: 'images/fonts/[name].[hash:4].[ext]'...}" />
-              <marker date="1550038444846" expanded="true" signature="3908:3949" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="4258:4409" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="4286:4293" ph="&lt;ReduxProvider/&gt;" />
-              <marker date="1550038444846" expanded="true" signature="4693:5117" ph="[...]" />
-              <marker date="1550038444846" expanded="true" signature="4699:4771" ph="{&quot;path&quot;: &quot;/&quot;...}" />
-              <marker date="1550038444846" expanded="true" signature="4777:4795" ph="{&quot;path&quot;: &quot;/about&quot;...}" />
-              <marker date="1550038444846" expanded="true" signature="4777:4855" ph="{&quot;path&quot;: &quot;/intro&quot;...}" />
-              <marker date="1550038444846" expanded="true" signature="4861:4943" ph="{&quot;path&quot;: &quot;/intro/:id&quot;...}" />
-              <marker date="1550038444846" expanded="true" signature="4949:5034" ph="{&quot;path&quot;: &quot;/agreement&quot;...}" />
-              <marker date="1550038444846" expanded="true" signature="5040:5115" ph="{&quot;path&quot;: &quot;/case&quot;...}" />
-              <marker date="1550038444846" expanded="true" signature="5087:5115" ph="{&quot;path&quot;: &quot;/secret&quot;...}" />
-              <marker date="1550038444846" expanded="true" signature="5246:5378" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="5252:5261" ph="/*...*/" />
-              <marker date="1550038444846" expanded="true" signature="5277:5376" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="5350:5359" ph="/*...*/" />
-              <marker date="1550038444846" expanded="true" signature="5449:5478" ph="{&quot;sample&quot;: state.data...}" />
-              <marker date="1550038444846" expanded="true" signature="5510:5528" ph="{&quot;fetchSample&quot;: fetchSample...}" />
-              <marker date="1550038444846" expanded="true" signature="5767:6709" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="6168:6705" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="6204:6399" ph="&lt;ReduxProvider/&gt;" />
-              <marker date="1550038444846" expanded="true" signature="6252:6370" ph="&lt;StaticRouter/&gt;" />
-              <marker date="1550038444846" expanded="true" signature="7018:7145" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="7018:8408" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="7033:7143" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="7063:7127" ph="&lt;Helmet/&gt;" />
-              <marker date="1550038444846" expanded="true" signature="7146:7155" ph="/*...*/" />
-              <marker date="1550038444846" expanded="true" signature="7209:8065" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="7215:7222" ph="/*...*/" />
-              <marker date="1550038444846" expanded="true" signature="7524:8061" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="7560:7755" ph="&lt;ReduxProvider/&gt;" />
-              <marker date="1550038444846" expanded="true" signature="7608:7726" ph="&lt;StaticRouter/&gt;" />
-              <marker date="1550038444846" expanded="true" signature="8125:8408" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="8550:9224" ph="{...}" />
-              <marker date="1550038444846" expanded="true" signature="9803:9849" ph="{&quot;interval&quot;: '1d'...}" />
+              <marker date="1550038699678" expanded="true" signature="1580:1925" ph="[...]" />
+              <marker date="1550038699678" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
+              <marker date="1550038699678" expanded="true" signature="1702:1778" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="1928:2021" ph="[...]" />
+              <marker date="1550038699678" expanded="true" signature="1956:2018" ph="{&quot;filename&quot;: 'index.css'...}" />
+              <marker date="1550038699678" expanded="true" signature="2054:2729" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="2098:2236" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="2268:2409" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="2455:2725" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="2470:2719" ph="[...]" />
+              <marker date="1550038699678" expanded="true" signature="2480:2549" ph="{&quot;loader&quot;: 'babel-loader'...}" />
+              <marker date="1550038699678" expanded="true" signature="2559:2629" ph="{&quot;loader&quot;: 'json-loader'...}" />
+              <marker date="1550038699678" expanded="true" signature="2639:2711" ph="{&quot;loader&quot;: 'ignore-loader'...}" />
+              <marker date="1550038699678" expanded="true" signature="2761:3953" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="2774:2820" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="2834:3002" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="3044:3893" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="3059:3887" ph="[...]" />
+              <marker date="1550038699678" expanded="true" signature="3071:3151" ph="{&quot;loader&quot;: 'json-loader'...}" />
+              <marker date="1550038699678" expanded="true" signature="3152:3270" ph="{&quot;loader&quot;: 'babel-loader'...}" />
+              <marker date="1550038699678" expanded="true" signature="3271:3496" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="3352:3483" ph="{&quot;fallback&quot;: 'style-loader'...}" />
+              <marker date="1550038699678" expanded="true" signature="3497:3647" ph="{&quot;loader&quot;: 'file-loader?limit=2048&amp;name=assets/images/[name]_[hash:4].[ext]'...}" />
+              <marker date="1550038699678" expanded="true" signature="3649:3879" ph="{&quot;loader&quot;: 'url'...}" />
+              <marker date="1550038699678" expanded="true" signature="3757:3867" ph="{&quot;name&quot;: 'images/fonts/[name].[hash:4].[ext]'...}" />
+              <marker date="1550038699678" expanded="true" signature="3908:3949" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="4258:4409" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="4286:4293" ph="&lt;ReduxProvider/&gt;" />
+              <marker date="1550038699678" expanded="true" signature="4693:5117" ph="[...]" />
+              <marker date="1550038699678" expanded="true" signature="4699:4771" ph="{&quot;path&quot;: &quot;/&quot;...}" />
+              <marker date="1550038699678" expanded="true" signature="4777:4795" ph="{&quot;path&quot;: &quot;/about&quot;...}" />
+              <marker date="1550038699678" expanded="true" signature="4777:4855" ph="{&quot;path&quot;: &quot;/intro&quot;...}" />
+              <marker date="1550038699678" expanded="true" signature="4861:4943" ph="{&quot;path&quot;: &quot;/intro/:id&quot;...}" />
+              <marker date="1550038699678" expanded="true" signature="4949:5034" ph="{&quot;path&quot;: &quot;/agreement&quot;...}" />
+              <marker date="1550038699678" expanded="true" signature="5040:5115" ph="{&quot;path&quot;: &quot;/case&quot;...}" />
+              <marker date="1550038699678" expanded="true" signature="5087:5115" ph="{&quot;path&quot;: &quot;/secret&quot;...}" />
+              <marker date="1550038699678" expanded="true" signature="5246:5378" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="5252:5261" ph="/*...*/" />
+              <marker date="1550038699678" expanded="true" signature="5277:5376" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="5350:5359" ph="/*...*/" />
+              <marker date="1550038699678" expanded="true" signature="5449:5478" ph="{&quot;sample&quot;: state.data...}" />
+              <marker date="1550038699678" expanded="true" signature="5510:5528" ph="{&quot;fetchSample&quot;: fetchSample...}" />
+              <marker date="1550038699678" expanded="true" signature="5761:6703" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="6162:6699" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="6198:6393" ph="&lt;ReduxProvider/&gt;" />
+              <marker date="1550038699678" expanded="true" signature="6228:6392" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="6246:6364" ph="&lt;StaticRouter/&gt;" />
+              <marker date="1550038699678" expanded="true" signature="6300:6363" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="7006:7133" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="7006:8396" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="7021:7131" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="7051:7115" ph="&lt;Helmet/&gt;" />
+              <marker date="1550038699678" expanded="true" signature="7058:7114" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="7134:7143" ph="/*...*/" />
+              <marker date="1550038699678" expanded="true" signature="7197:8053" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="7203:7210" ph="/*...*/" />
+              <marker date="1550038699678" expanded="true" signature="7512:8049" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="7548:7743" ph="&lt;ReduxProvider/&gt;" />
+              <marker date="1550038699678" expanded="true" signature="7578:7742" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="7596:7714" ph="&lt;StaticRouter/&gt;" />
+              <marker date="1550038699678" expanded="true" signature="7650:7713" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="8113:8396" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="8165:8395" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="8180:8359" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="8532:9206" ph="{...}" />
+              <marker date="1550038699678" expanded="true" signature="8576:9198" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="8589:8933" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="8953:9186" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="9007:9085" ph="..." />
+              <marker date="1550038699678" expanded="true" signature="9785:9831" ph="{&quot;interval&quot;: '1d'...}" />
             </folding>
           </first_editor>
           <second_editor />
