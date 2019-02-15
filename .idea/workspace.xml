@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" afterPath="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -251,13 +250,13 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
                 <folding>
-                  <marker date="1550209586830" expanded="true" signature="596:679" ph="{...}" />
-                  <marker date="1550209586830" expanded="true" signature="730:764" ph="{...}" />
-                  <marker date="1550209586830" expanded="true" signature="800:890" ph="{...}" />
-                  <marker date="1550209586830" expanded="true" signature="825:884" ph="{...}" />
+                  <marker date="1550209680425" expanded="true" signature="595:678" ph="{...}" />
+                  <marker date="1550209680425" expanded="true" signature="729:763" ph="{...}" />
+                  <marker date="1550209680425" expanded="true" signature="799:889" ph="{...}" />
+                  <marker date="1550209680425" expanded="true" signature="824:883" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -464,12 +463,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="45552000" />
+      <workItem from="1548239203066" duration="45625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45552000" />
+    <option name="totallyTimeSpent" value="45625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -1025,13 +1024,13 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
             <folding>
-              <marker date="1550209586830" expanded="true" signature="596:679" ph="{...}" />
-              <marker date="1550209586830" expanded="true" signature="730:764" ph="{...}" />
-              <marker date="1550209586830" expanded="true" signature="800:890" ph="{...}" />
-              <marker date="1550209586830" expanded="true" signature="825:884" ph="{...}" />
+              <marker date="1550209680425" expanded="true" signature="595:678" ph="{...}" />
+              <marker date="1550209680425" expanded="true" signature="729:763" ph="{...}" />
+              <marker date="1550209680425" expanded="true" signature="799:889" ph="{...}" />
+              <marker date="1550209680425" expanded="true" signature="824:883" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
