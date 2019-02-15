@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/img/post-bg-desk.jpg" afterPath="$PROJECT_DIR$/img/post-bg-desk.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,19 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-24-从零快速搭建Next框架教程.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2539">
-                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2019-01-23-【笔记】Git常用命令汇总.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -103,7 +91,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="-1364">
-                <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+                <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -132,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-296">
+              <first_editor relative-caret-position="225">
                 <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
                 <folding>
                   <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
@@ -175,12 +163,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-02-13-【笔记】搭建React服务端渲染环境.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-02-13-【笔记】搭建React服务端渲染环境.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="280" column="63" lean-forward="false" selection-start-line="280" selection-start-column="63" selection-end-line="280" selection-end-column="63" />
+              <first_editor relative-caret-position="240">
+                <caret line="276" column="28" lean-forward="true" selection-start-line="276" selection-start-column="28" selection-end-line="276" selection-end-column="28" />
                 <folding>
                   <marker date="1550038699678" expanded="true" signature="1580:1925" ph="[...]" />
                   <marker date="1550038699678" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
@@ -259,6 +247,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2019-02-15-阻止嵌套滚动条的外层滚动行为.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="495">
+                <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+                <folding>
+                  <marker date="1550209586830" expanded="true" signature="596:679" ph="{...}" />
+                  <marker date="1550209586830" expanded="true" signature="730:764" ph="{...}" />
+                  <marker date="1550209586830" expanded="true" signature="800:890" ph="{...}" />
+                  <marker date="1550209586830" expanded="true" signature="825:884" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -316,6 +322,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-02-12-【算法题】随机生成指定长度的字符串.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" />
       </list>
     </option>
   </component>
@@ -457,12 +464,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="43894000" />
+      <workItem from="1548239203066" duration="45552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43894000" />
+    <option name="totallyTimeSpent" value="45552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -863,35 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-296">
-            <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-            <folding>
-              <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="398:429" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="597:624" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="763:857" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="805:854" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1018:1219" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1043:1200" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1084:1194" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1119:1184" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1361:1695" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1412:1677" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1475:1621" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1510:1611" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1641:1671" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="1838:1889" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="2038:2225" ph="{...}" />
-              <marker date="1549151640627" expanded="true" signature="2108:2201" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7">
@@ -926,7 +904,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-1364">
-            <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
@@ -936,8 +914,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="280" column="63" lean-forward="false" selection-start-line="280" selection-start-column="63" selection-end-line="280" selection-end-column="63" />
+          <first_editor relative-caret-position="240">
+            <caret line="276" column="28" lean-forward="true" selection-start-line="276" selection-start-column="28" selection-end-line="276" selection-end-column="28" />
             <folding>
               <marker date="1550038699678" expanded="true" signature="1580:1925" ph="[...]" />
               <marker date="1550038699678" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
@@ -1009,6 +987,51 @@
               <marker date="1550038699678" expanded="true" signature="8953:9186" ph="..." />
               <marker date="1550038699678" expanded="true" signature="9007:9085" ph="..." />
               <marker date="1550038699678" expanded="true" signature="9785:9831" ph="{&quot;interval&quot;: '1d'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <folding>
+              <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="398:429" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="597:624" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="763:857" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="805:854" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1018:1219" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1043:1200" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1084:1194" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1119:1184" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1361:1695" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1412:1677" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1475:1621" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1510:1611" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1641:1671" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="1838:1889" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="2038:2225" ph="{...}" />
+              <marker date="1549151640627" expanded="true" signature="2108:2201" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <folding>
+              <marker date="1550209586830" expanded="true" signature="596:679" ph="{...}" />
+              <marker date="1550209586830" expanded="true" signature="730:764" ph="{...}" />
+              <marker date="1550209586830" expanded="true" signature="800:890" ph="{...}" />
+              <marker date="1550209586830" expanded="true" signature="825:884" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
