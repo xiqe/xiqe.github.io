@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" afterPath="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,19 +67,6 @@
                   <marker date="1548647792109" expanded="true" signature="4529:4569" ph="..." />
                   <marker date="1548647792109" expanded="true" signature="4564:4569" ph="..." />
                 </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-01-23-【笔记】Git常用命令汇总.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="245">
-                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -167,7 +155,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="240">
-                <caret line="276" column="28" lean-forward="true" selection-start-line="276" selection-start-column="28" selection-end-line="276" selection-end-column="28" />
+                <caret line="276" column="28" lean-forward="false" selection-start-line="276" selection-start-column="28" selection-end-line="276" selection-end-column="28" />
                 <folding>
                   <marker date="1550038699678" expanded="true" signature="1580:1925" ph="[...]" />
                   <marker date="1550038699678" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
@@ -246,17 +234,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-02-15-阻止嵌套滚动条的外层滚动行为.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-02-15-阻止嵌套滚动条的外层滚动行为.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
                 <folding>
                   <marker date="1550209680425" expanded="true" signature="595:678" ph="{...}" />
                   <marker date="1550209680425" expanded="true" signature="729:763" ph="{...}" />
                   <marker date="1550209680425" expanded="true" signature="799:889" ph="{...}" />
                   <marker date="1550209680425" expanded="true" signature="824:883" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-03-01-利用postMessage解决iframe跨域通信.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="493">
+                <caret line="199" column="0" lean-forward="true" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+                <folding>
+                  <marker date="1551407445534" expanded="true" signature="539:728" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="548:613" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="622:720" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="768:1546" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="777:842" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="851:1538" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="887:1528" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="924:1515" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="1006:1499" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="1097:1188" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="1217:1485" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="1586:2606" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="1593:1669" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="1676:2598" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="1885:1897" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="1958:2590" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="1998:2272" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="2308:2576" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="2470:2566" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="2789:3165" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="2798:2863" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="2872:3157" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="2973:3147" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="3036:3124" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="3205:4112" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="3212:3288" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="3295:4104" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="3504:3516" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="3577:4096" ph="..." />
+                  <marker date="1551407445534" expanded="true" signature="3617:3891" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="3927:4082" ph="{...}" />
+                  <marker date="1551407445534" expanded="true" signature="4504:5257" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -322,6 +356,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md" />
       </list>
     </option>
   </component>
@@ -341,7 +376,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="795" />
@@ -463,15 +498,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="45625000" />
+      <workItem from="1548239203066" duration="50126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45625000" />
+    <option name="totallyTimeSpent" value="50126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="795" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="793" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -914,7 +949,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="240">
-            <caret line="276" column="28" lean-forward="true" selection-start-line="276" selection-start-column="28" selection-end-line="276" selection-end-column="28" />
+            <caret line="276" column="28" lean-forward="false" selection-start-line="276" selection-start-column="28" selection-end-line="276" selection-end-column="28" />
             <folding>
               <marker date="1550038699678" expanded="true" signature="1580:1925" ph="[...]" />
               <marker date="1550038699678" expanded="true" signature="1608:1670" ph="{&quot;filename&quot;: 'index.css'...}" />
@@ -1024,13 +1059,57 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             <folding>
               <marker date="1550209680425" expanded="true" signature="595:678" ph="{...}" />
               <marker date="1550209680425" expanded="true" signature="729:763" ph="{...}" />
               <marker date="1550209680425" expanded="true" signature="799:889" ph="{...}" />
               <marker date="1550209680425" expanded="true" signature="824:883" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="199" column="0" lean-forward="true" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+            <folding>
+              <marker date="1551407445534" expanded="true" signature="539:728" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="548:613" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="622:720" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="768:1546" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="777:842" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="851:1538" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="887:1528" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="924:1515" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="1006:1499" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="1097:1188" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="1217:1485" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="1586:2606" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="1593:1669" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="1676:2598" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="1885:1897" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="1958:2590" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="1998:2272" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="2308:2576" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="2470:2566" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="2789:3165" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="2798:2863" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="2872:3157" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="2973:3147" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="3036:3124" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="3205:4112" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="3212:3288" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="3295:4104" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="3504:3516" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="3577:4096" ph="..." />
+              <marker date="1551407445534" expanded="true" signature="3617:3891" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="3927:4082" ph="{...}" />
+              <marker date="1551407445534" expanded="true" signature="4504:5257" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
