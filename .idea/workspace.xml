@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="302">
+              <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -33,42 +32,6 @@
             <state relative-caret-position="195">
               <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-01-28-CSS实现水平垂直居中的10种方式.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-CSS实现水平垂直居中的10种方式.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="542">
-                <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="63" />
-                <folding>
-                  <marker date="1548647792109" expanded="true" signature="883:918" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="913:918" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="1218:1253" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="1542:1577" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="1858:1893" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="2300:2345" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="2340:2345" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="2875:2967" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="2905:2960" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="2962:2967" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="3282:3403" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="3294:3394" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="3303:3381" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="3316:3371" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="3765:3790" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="3791:3874" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="3815:3867" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="4164:4166" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="4164:4198" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="4164:4203" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="4529:4569" ph="..." />
-                  <marker date="1548647792109" expanded="true" signature="4564:4569" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -252,12 +215,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-01-利用postMessage解决iframe跨域通信.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-01-利用postMessage解决iframe跨域通信.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="493">
-                <caret line="199" column="0" lean-forward="true" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+              <first_editor relative-caret-position="478">
+                <caret line="198" column="3" lean-forward="true" selection-start-line="198" selection-start-column="3" selection-end-line="198" selection-end-column="3" />
                 <folding>
                   <marker date="1551407445534" expanded="true" signature="539:728" ph="..." />
                   <marker date="1551407445534" expanded="true" signature="548:613" ph="..." />
@@ -294,6 +257,16 @@
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecov.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codecov.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -343,7 +316,6 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_posts/2019-01-26-CSS实现水平垂直居中的10种方式.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-01-23-【笔记】Git常用命令汇总.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-CSS经典九宫格布局开放式面试题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-CSS经典类九宫格布局开放式面试题.md" />
@@ -357,6 +329,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-02-13-【笔记】搭建React服务端渲染环境.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-15-阻止嵌套滚动条的外层滚动行为.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -498,12 +471,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548239201819</updated>
-      <workItem from="1548239203066" duration="50126000" />
+      <workItem from="1548239203066" duration="50689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50126000" />
+    <option name="totallyTimeSpent" value="50689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="6" />
@@ -711,14 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecov.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -904,14 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1075,8 +1032,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-01-利用postMessage解决iframe跨域通信.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="493">
-            <caret line="199" column="0" lean-forward="true" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+          <first_editor relative-caret-position="478">
+            <caret line="198" column="3" lean-forward="true" selection-start-line="198" selection-start-column="3" selection-end-line="198" selection-end-column="3" />
             <folding>
               <marker date="1551407445534" expanded="true" signature="539:728" ph="..." />
               <marker date="1551407445534" expanded="true" signature="548:613" ph="..." />
@@ -1113,6 +1070,22 @@
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecov.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
