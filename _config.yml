@@ -98,3 +98,11 @@ friends: [
         href: "https://zhuanlan.zhihu.com/bigfront"
     }
 ]
+
+# Tools
+tools: [
+    {
+        title: "在线代码编辑器",
+        href: "http://r18.fun/edit-online/"
+    }
+]
