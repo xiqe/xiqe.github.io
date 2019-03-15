@@ -153,6 +153,17 @@ layout: default
                     {% endfor %}
                 </ul>
                 {% endif %}
+
+                <!-- tools Blog -->
+                {% if site.tools %}
+                <hr>
+                <h5>TOOLS</h5>
+                <ul class="list-inline">
+                    {% for tool in site.tools %}
+                    <li><a href="{{tool.href}}" target="_blank">{{tool.title}}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             </div>
         </div>
     </div>
