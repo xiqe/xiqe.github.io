@@ -2,9 +2,9 @@
 layout:     post
 title:      【One topic per day】Which are in？
 subtitle:   前端题库，Javascript题集
-date:       2019-01-30
+date:       2019-03-23
 author:     Jerry
-header-img: img/post-bg-css3.jpg
+header-img: img/post-bg-js-version.jpg
 catalog: true
 tags:
     - 面试题
