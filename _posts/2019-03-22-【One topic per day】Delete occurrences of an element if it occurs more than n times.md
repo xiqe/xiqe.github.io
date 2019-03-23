@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      【One topic per day】Which are in？
+title:      【One topic per day】Delete occurrences of an element if it occurs more than n times？
 subtitle:   前端题库，Javascript题集
-date:       2019-03-23
+date:       2019-03-22
 author:     Jerry
 header-img: img/post-bg-js-version.jpg
 catalog: true
@@ -13,49 +13,32 @@ tags:
     - One topic per day
 ---
 
-# Which are in?
+# Delete occurrences of an element if it occurs more than n times
 
-Given two arrays of strings `a1` and `a2` return a sorted array r in lexicographical order of the strings of a1 which are substrings of strings of a2.
+### Enough is enough!
+Alice and Bob were on a holiday. Both of them took many pictures of the places they've been, and now they want to show Charlie their entire collection. However, Charlie doesn't like this sessions, since the motive usually repeats. He isn't fond of seeing the Eiffel tower 40 times. He tells them that he will only sit during the session if they show the same motive at most N times. Luckily, Alice and Bob are able to encode the motive as a number. Can you help them to remove numbers such that their list contains each number only up to N times, without changing the order?
 
-#Example 1: 
+### Task
+Given a list lst and a number N, create a new list that contains each number of lst at most N times without reordering. For example if N = 2, and the input is [1,2,3,1,2,1,2,3], you take [1,2,3,1,2], drop the next [1,2] since this would lead to 1 and 2 being in the result 3 times, and then take 3, which leads to [1,2,3,1,2,3].
 
-a1 = ["arp", "live", "strong"]
-
-a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
-
-returns ["arp", "live", "strong"]
-
-#Example 2: 
-
-a1 = ["tarp", "mice", "bull"]
-
-a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
-
-returns []
-
-### Notes:
-- Arrays are written in "general" notation. See "Your Test Cases" for examples in your language.
-
-- In Shell bash a1 and a2 are strings. The return is a string where words are separated by commas.
-
-- Beware: r must be without duplicates.
-- Don't mutate the inputs.
-
-## Reply
+### Example
 ```js
-//method 1:
-inArray = (a1, a2) => {
-  var str = a2.join(' ');
-  return a1.filter(s => str.indexOf(s) !== -1).sort();
-}
+deleteNth ([1,1,1,1],2) // return [1,1]
 
-//method 2:
-inArray = (a1, a2) => {
-  return array1
-    .filter(a1 => array2.find(a2 => a2.match(a1)))
-    .sort()
+deleteNth ([20,37,20,21],1) // return [20,37,21]
+```
+
+# Reply
+```js
+deleteNth = (arr,n) => {
+  let obj = {};
+  return arr.filter(x=>{
+    (obj[x])?obj[x]++:obj[x] = 1;
+    return obj[x]<=n
+  })
 }
 
 ```
 
-[同Github，欢迎star](https://github.com/xiqe/code-train/blob/master/javascript/Which%20are%20in.md)
+
+[同Github，欢迎star](https://github.com/xiqe/code-train/blob/master/javascript/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times.md)
