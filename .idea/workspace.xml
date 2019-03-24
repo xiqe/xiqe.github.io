@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md" afterPath="$PROJECT_DIR$/_posts/2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -135,7 +135,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -143,6 +143,24 @@
                 <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
                 <folding>
                   <marker date="1553337005970" expanded="true" signature="1468:1572" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-03-24-【One topic per day】The Supermarket Queue.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="544">
+                <caret line="60" column="103" lean-forward="false" selection-start-line="60" selection-start-column="103" selection-end-line="60" selection-end-column="103" />
+                <folding>
+                  <marker date="1553413594846" expanded="true" signature="1250:1334" ph="//..." />
+                  <marker date="1553413594846" expanded="true" signature="1361:1493" ph="//..." />
+                  <marker date="1553413594846" expanded="true" signature="1587:1770" ph="{...}" />
+                  <marker date="1553413594846" expanded="true" signature="1661:1732" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -186,16 +204,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -271,6 +279,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-23-【One topic per day】Which are in.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-23-【One topic per day】Delete occurrences of an element if it occurs more than n times.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md" />
       </list>
     </option>
   </component>
@@ -404,12 +413,12 @@
       <workItem from="1552892914703" duration="248000" />
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
-      <workItem from="1553239688555" duration="1061000" />
+      <workItem from="1553239688555" duration="1378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63064000" />
+    <option name="totallyTimeSpent" value="63381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="6" />
@@ -447,7 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/home-bg.jpg" />
     <entry file="file://$PROJECT_DIR$/img/home-bg-geek.jpg" />
     <entry file="file://$PROJECT_DIR$/img/home-bg-art.jpg" />
     <entry file="file://$PROJECT_DIR$/img/home-bg-o.jpg" />
@@ -869,6 +877,22 @@
             <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             <folding>
               <marker date="1553337005970" expanded="true" signature="1468:1572" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="544">
+            <caret line="60" column="103" lean-forward="false" selection-start-line="60" selection-start-column="103" selection-end-line="60" selection-end-column="103" />
+            <folding>
+              <marker date="1553413594846" expanded="true" signature="1250:1334" ph="//..." />
+              <marker date="1553413594846" expanded="true" signature="1361:1493" ph="//..." />
+              <marker date="1553413594846" expanded="true" signature="1587:1770" ph="{...}" />
+              <marker date="1553413594846" expanded="true" signature="1661:1732" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
