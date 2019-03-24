@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md" afterPath="$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -154,13 +153,13 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="544">
-                <caret line="60" column="103" lean-forward="false" selection-start-line="60" selection-start-column="103" selection-end-line="60" selection-end-column="103" />
+              <first_editor relative-caret-position="363">
+                <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
                 <folding>
-                  <marker date="1553413594846" expanded="true" signature="1250:1334" ph="//..." />
-                  <marker date="1553413594846" expanded="true" signature="1361:1493" ph="//..." />
-                  <marker date="1553413594846" expanded="true" signature="1587:1770" ph="{...}" />
-                  <marker date="1553413594846" expanded="true" signature="1661:1732" ph="{...}" />
+                  <marker date="1553413654328" expanded="true" signature="1250:1334" ph="//..." />
+                  <marker date="1553413654328" expanded="true" signature="1361:1493" ph="//..." />
+                  <marker date="1553413654328" expanded="true" signature="1587:1773" ph="{...}" />
+                  <marker date="1553413654328" expanded="true" signature="1664:1735" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -413,12 +412,12 @@
       <workItem from="1552892914703" duration="248000" />
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
-      <workItem from="1553239688555" duration="1378000" />
+      <workItem from="1553239688555" duration="1435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63381000" />
+    <option name="totallyTimeSpent" value="63438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="6" />
@@ -886,13 +885,13 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="544">
-            <caret line="60" column="103" lean-forward="false" selection-start-line="60" selection-start-column="103" selection-end-line="60" selection-end-column="103" />
+          <first_editor relative-caret-position="363">
+            <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
             <folding>
-              <marker date="1553413594846" expanded="true" signature="1250:1334" ph="//..." />
-              <marker date="1553413594846" expanded="true" signature="1361:1493" ph="//..." />
-              <marker date="1553413594846" expanded="true" signature="1587:1770" ph="{...}" />
-              <marker date="1553413594846" expanded="true" signature="1661:1732" ph="{...}" />
+              <marker date="1553413654328" expanded="true" signature="1250:1334" ph="//..." />
+              <marker date="1553413654328" expanded="true" signature="1361:1493" ph="//..." />
+              <marker date="1553413654328" expanded="true" signature="1587:1773" ph="{...}" />
+              <marker date="1553413654328" expanded="true" signature="1664:1735" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

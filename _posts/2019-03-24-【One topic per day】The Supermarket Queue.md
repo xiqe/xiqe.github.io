@@ -48,7 +48,7 @@ queueTime([2,3,10], 2)
 # Reply
 ```js
 queueTime = (customers, n) => {
-	let arr = new Array(n).fill(0);
+    let arr = new Array(n).fill(0);
     for(let i=0;i<customers.length;i++){
     	arr[arr.indexOf(Math.min.apply(null,arr))] += customers[i]
     }
