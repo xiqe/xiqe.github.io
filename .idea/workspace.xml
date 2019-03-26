@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-25-【One topic per day】Sum of the first nth term of Series.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-26-【One topic per day】Highest and Lowest.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,16 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="keynote.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2175">
-              <caret line="145" column="21" lean-forward="false" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -157,14 +148,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-25-【One topic per day】Sum of the first nth term of Series.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-25-【One topic per day】Sum of the first nth term of Series.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-25-【One topic per day】Sum of the first nth term of Series.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="516">
+              <first_editor relative-caret-position="518">
                 <caret line="43" column="127" lean-forward="false" selection-start-line="43" selection-start-column="127" selection-end-line="43" selection-end-column="127" />
                 <folding>
                   <marker date="1553490534593" expanded="true" signature="843:936" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-03-26-【One topic per day】Highest and Lowest.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-26-【One topic per day】Highest and Lowest.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="567">
+                <caret line="44" column="74" lean-forward="false" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
+                <folding>
+                  <marker date="1553562883373" expanded="true" signature="613:701" ph="{...}" />
+                  <marker date="1553562883373" expanded="true" signature="735:851" ph="{...}" />
+                  <marker date="1553562883373" expanded="true" signature="849:851" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -286,6 +294,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-24-【One topic per day】The Supermarket Queue.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-25-【One topic per day】um of the first nth term of Series.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-25-【One topic per day】Sum of the first nth term of Series.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-26-【One topic per day】Highest and Lowest.md" />
       </list>
     </option>
   </component>
@@ -419,12 +428,12 @@
       <workItem from="1552892914703" duration="248000" />
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
-      <workItem from="1553239688555" duration="1808000" />
+      <workItem from="1553239688555" duration="2035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63811000" />
+    <option name="totallyTimeSpent" value="64038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="6" />
@@ -462,7 +471,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/home-bg-art.jpg" />
     <entry file="file://$PROJECT_DIR$/img/home-bg-o.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-2015.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-alibaba.jpg" />
@@ -907,10 +915,25 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-25-【One topic per day】Sum of the first nth term of Series.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="516">
+          <first_editor relative-caret-position="518">
             <caret line="43" column="127" lean-forward="false" selection-start-line="43" selection-start-column="127" selection-end-line="43" selection-end-column="127" />
             <folding>
               <marker date="1553490534593" expanded="true" signature="843:936" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-26-【One topic per day】Highest and Lowest.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="567">
+            <caret line="44" column="74" lean-forward="false" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
+            <folding>
+              <marker date="1553562883373" expanded="true" signature="613:701" ph="{...}" />
+              <marker date="1553562883373" expanded="true" signature="735:851" ph="{...}" />
+              <marker date="1553562883373" expanded="true" signature="849:851" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
