@@ -2,7 +2,7 @@
 layout:     post
 title:      【One topic per day】Double Cola
 subtitle:   前端题库，Javascript题集
-date:       2019-03-26
+date:       2019-03-27
 author:     Jerry
 header-img: img/post-bg-js-version.jpg
 catalog: true

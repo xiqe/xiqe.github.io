@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-27-【One topic per day】Double Cola.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-28-【One topic per day】Directions Reduction.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-27-【One topic per day】Double Cola.md" afterPath="$PROJECT_DIR$/_posts/2019-03-27-【One topic per day】Double Cola.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2019-03-18-一个在线实时预览代码编辑器的实现.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-18-一个在线实时预览代码编辑器的实现.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-                <folding>
-                  <marker date="1552894143414" expanded="true" signature="1120:1178" ph="{&quot;orientation&quot;: 'vertical'...}" />
-                  <marker date="1552894143414" expanded="true" signature="1366:1469" ph="{&quot;mode&quot;: &quot;htmlmixed&quot;...}" />
-                  <marker date="1552894143414" expanded="true" signature="1892:1981" ph="{...}" />
-                  <marker date="1552894143414" expanded="true" signature="1928:1979" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2018-11-12-【研究与总结】关于前端请求的那些事.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-12-【研究与总结】关于前端请求的那些事.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -170,18 +153,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-27-【One topic per day】Double Cola.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-27-【One topic per day】Double Cola.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-27-【One topic per day】Double Cola.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="585">
-                <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
                 <folding>
-                  <marker date="1553649868885" expanded="true" signature="1492:1607" ph="{...}" />
-                  <marker date="1553649868885" expanded="true" signature="1649:1896" ph="{...}" />
-                  <marker date="1553649868885" expanded="true" signature="1663:1689" ph="{...}" />
-                  <marker date="1553649868885" expanded="true" signature="1746:1857" ph="{...}" />
-                  <marker date="1553649868885" expanded="true" signature="1778:1824" ph="{...}" />
+                  <marker date="1553677123552" expanded="true" signature="1492:1607" ph="{...}" />
+                  <marker date="1553677123552" expanded="true" signature="1649:1896" ph="{...}" />
+                  <marker date="1553677123552" expanded="true" signature="1663:1689" ph="{...}" />
+                  <marker date="1553677123552" expanded="true" signature="1746:1857" ph="{...}" />
+                  <marker date="1553677123552" expanded="true" signature="1778:1824" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-03-28-【One topic per day】Directions Reduction.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-28-【One topic per day】Directions Reduction.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="495">
+                <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+                <folding>
+                  <marker date="1553677217064" expanded="true" signature="1444:1692" ph="{...}" />
+                  <marker date="1553677217064" expanded="true" signature="1564:1685" ph="{...}" />
+                  <marker date="1553677217064" expanded="true" signature="1606:1631" ph="{...}" />
+                  <marker date="1553677217064" expanded="true" signature="1637:1665" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -305,6 +306,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-25-【One topic per day】Sum of the first nth term of Series.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-26-【One topic per day】Highest and Lowest.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-27-【One topic per day】Double Cola.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-28-【One topic per day】Directions Reduction.md" />
       </list>
     </option>
   </component>
@@ -439,12 +441,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="399000" />
+      <workItem from="1553589772859" duration="1091000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64437000" />
+    <option name="totallyTimeSpent" value="65129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="6" />
@@ -482,7 +484,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-2015.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-alibaba.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-android.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-BJJ.jpg" />
@@ -931,14 +932,30 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-27-【One topic per day】Double Cola.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             <folding>
-              <marker date="1553649868885" expanded="true" signature="1492:1607" ph="{...}" />
-              <marker date="1553649868885" expanded="true" signature="1649:1896" ph="{...}" />
-              <marker date="1553649868885" expanded="true" signature="1663:1689" ph="{...}" />
-              <marker date="1553649868885" expanded="true" signature="1746:1857" ph="{...}" />
-              <marker date="1553649868885" expanded="true" signature="1778:1824" ph="{...}" />
+              <marker date="1553677123552" expanded="true" signature="1492:1607" ph="{...}" />
+              <marker date="1553677123552" expanded="true" signature="1649:1896" ph="{...}" />
+              <marker date="1553677123552" expanded="true" signature="1663:1689" ph="{...}" />
+              <marker date="1553677123552" expanded="true" signature="1746:1857" ph="{...}" />
+              <marker date="1553677123552" expanded="true" signature="1778:1824" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-28-【One topic per day】Directions Reduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <folding>
+              <marker date="1553677217064" expanded="true" signature="1444:1692" ph="{...}" />
+              <marker date="1553677217064" expanded="true" signature="1564:1685" ph="{...}" />
+              <marker date="1553677217064" expanded="true" signature="1606:1631" ph="{...}" />
+              <marker date="1553677217064" expanded="true" signature="1637:1665" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
