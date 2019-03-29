@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-29-【One topic per day】Exes and Ohs.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -189,7 +189,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-29-【One topic per day】Exes and Ohs.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-29-【One topic per day】Exes and Ohs.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-【One topic per day】Exes and Ohs.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -205,30 +205,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-02-03-【算法题】数组去重排序最大差值.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-03-【算法题】数组去重排序最大差值.md">
+      <file leaf-file-name="2019-03-30-【One topic per day】Equal Sides Of An Array.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
+              <first_editor relative-caret-position="585">
+                <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
                 <folding>
-                  <marker date="1549151640627" expanded="true" signature="355:461" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="398:422" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="597:624" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="763:857" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="805:854" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1018:1219" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1043:1066" ph="{&quot;j&quot;: j...}" />
-                  <marker date="1549151640627" expanded="true" signature="1084:1194" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1119:1184" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1361:1695" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1412:1677" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1475:1621" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1510:1611" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1641:1671" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="1838:1889" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="2038:2225" ph="{...}" />
-                  <marker date="1549151640627" expanded="true" signature="2108:2201" ph="{...}" />
+                  <marker date="1553847200760" expanded="true" signature="1959:2114" ph="{...}" />
+                  <marker date="1553847200760" expanded="true" signature="1994:2100" ph="{...}" />
+                  <marker date="1553847200760" expanded="true" signature="2074:2096" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -313,6 +299,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-27-【One topic per day】Double Cola.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-28-【One topic per day】Directions Reduction.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-29-【One topic per day】Exes and Ohs.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" />
       </list>
     </option>
   </component>
@@ -447,12 +434,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="1298000" />
+      <workItem from="1553589772859" duration="1937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65336000" />
+    <option name="totallyTimeSpent" value="65975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="6" />
@@ -490,7 +477,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-android.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-BJJ.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-coffee.jpeg">
       <provider selected="true" editor-type-id="images">
@@ -975,6 +961,21 @@
             <folding>
               <marker date="1553828093909" expanded="true" signature="661:750" ph="{...}" />
               <marker date="1553828093909" expanded="true" signature="776:887" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="585">
+            <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <folding>
+              <marker date="1553847200760" expanded="true" signature="1959:2114" ph="{...}" />
+              <marker date="1553847200760" expanded="true" signature="1994:2100" ph="{...}" />
+              <marker date="1553847200760" expanded="true" signature="2074:2096" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
