@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      【One topic per day】Exes and Ohs
+title:      【One topic per day】Equal Sides Of An Array
 subtitle:   前端题库，Javascript题集
 date:       2019-03-30
 author:     Jerry

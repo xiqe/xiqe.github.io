@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="" />
+    <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" afterPath="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -206,12 +208,12 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="870">
-                <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
                 <folding>
-                  <marker date="1553847200760" expanded="true" signature="1959:2114" ph="{...}" />
-                  <marker date="1553847200760" expanded="true" signature="1994:2100" ph="{...}" />
-                  <marker date="1553847200760" expanded="true" signature="2074:2096" ph="{...}" />
+                  <marker date="1553847494433" expanded="true" signature="1970:2125" ph="{...}" />
+                  <marker date="1553847494433" expanded="true" signature="2005:2111" ph="{...}" />
+                  <marker date="1553847494433" expanded="true" signature="2085:2107" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -431,12 +433,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="2158000" />
+      <workItem from="1553589772859" duration="2231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66196000" />
+    <option name="totallyTimeSpent" value="66269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="6" />
@@ -967,12 +969,12 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="870">
-            <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             <folding>
-              <marker date="1553847200760" expanded="true" signature="1959:2114" ph="{...}" />
-              <marker date="1553847200760" expanded="true" signature="1994:2100" ph="{...}" />
-              <marker date="1553847200760" expanded="true" signature="2074:2096" ph="{...}" />
+              <marker date="1553847494433" expanded="true" signature="1970:2125" ph="{...}" />
+              <marker date="1553847494433" expanded="true" signature="2005:2111" ph="{...}" />
+              <marker date="1553847494433" expanded="true" signature="2085:2107" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
