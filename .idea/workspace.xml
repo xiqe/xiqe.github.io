@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" afterPath="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,22 +64,6 @@
                   <marker date="1548381965062" expanded="true" signature="6259:6287" ph="{...}" />
                   <marker date="1548381965062" expanded="true" signature="6307:6335" ph="{...}" />
                   <marker date="1548381965062" expanded="true" signature="6413:6437" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-03-23-【One topic per day】Which are in.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-23-【One topic per day】Which are in.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-                <folding>
-                  <marker date="1553336832376" expanded="true" signature="1008:1092" ph="{...}" />
-                  <marker date="1553336832376" expanded="true" signature="1128:1210" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -204,7 +189,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-30-【One topic per day】Equal Sides Of An Array.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-30-【One topic per day】Equal Sides Of An Array.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -215,6 +200,19 @@
                   <marker date="1553847494433" expanded="true" signature="2005:2111" ph="{...}" />
                   <marker date="1553847494433" expanded="true" signature="2085:2107" ph="{...}" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-03-31-【One topic per day】Bit Counting.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="375">
+                <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -299,6 +297,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-28-【One topic per day】Directions Reduction.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-29-【One topic per day】Exes and Ohs.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md" />
       </list>
     </option>
   </component>
@@ -433,12 +432,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="2231000" />
+      <workItem from="1553589772859" duration="2848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66269000" />
+    <option name="totallyTimeSpent" value="66886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="6" />
@@ -476,7 +475,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-BJJ.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-coffee.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -976,6 +974,17 @@
               <marker date="1553847494433" expanded="true" signature="2005:2111" ph="{...}" />
               <marker date="1553847494433" expanded="true" signature="2085:2107" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
