@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-02-【One topic per day】Sum of two lowest positive integers.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -64,21 +64,6 @@
                   <marker date="1548381965062" expanded="true" signature="6259:6287" ph="{...}" />
                   <marker date="1548381965062" expanded="true" signature="6307:6335" ph="{...}" />
                   <marker date="1548381965062" expanded="true" signature="6413:6437" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-【One topic per day】Delete occurrences of an element if it occurs more than n times.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-                <folding>
-                  <marker date="1553337005970" expanded="true" signature="1468:1572" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -206,13 +191,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-03-31-【One topic per day】Bit Counting.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-03-31-【One topic per day】Bit Counting.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="375">
                 <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-04-02-【One topic per day】Sum of two lowest positive integers.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-02-【One topic per day】Sum of two lowest positive integers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <folding>
+                  <marker date="1554124293396" expanded="true" signature="691:758" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -298,6 +298,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-29-【One topic per day】Exes and Ohs.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-30-【One topic per day】Equal Sides Of An Array.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-02-【One topic per day】Sum of two lowest positive integers.md" />
       </list>
     </option>
   </component>
@@ -432,12 +433,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="2848000" />
+      <workItem from="1553589772859" duration="3502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66886000" />
+    <option name="totallyTimeSpent" value="67540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="6" />
@@ -475,11 +476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-coffee.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/post-bg-digital-native.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-github-cup.jpg">
@@ -985,6 +981,19 @@
           <first_editor relative-caret-position="375">
             <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-02-【One topic per day】Sum of two lowest positive integers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding>
+              <marker date="1554124293396" expanded="true" signature="691:758" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
