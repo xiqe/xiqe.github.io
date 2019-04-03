@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-03-【One topic per day】Find the missing letter.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-04-【One topic per day】Persistent Bugger.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -64,21 +64,6 @@
                   <marker date="1548381965062" expanded="true" signature="6259:6287" ph="{...}" />
                   <marker date="1548381965062" expanded="true" signature="6307:6335" ph="{...}" />
                   <marker date="1548381965062" expanded="true" signature="6413:6437" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-03-25-【One topic per day】Sum of the first nth term of Series.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-25-【One topic per day】Sum of the first nth term of Series.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="645">
-                <caret line="43" column="127" lean-forward="false" selection-start-line="43" selection-start-column="127" selection-end-line="43" selection-end-column="127" />
-                <folding>
-                  <marker date="1553490534593" expanded="true" signature="843:936" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -201,17 +186,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-04-03-【One topic per day】Find the missing letter.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-04-03-【One topic per day】Find the missing letter.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-03-【One topic per day】Find the missing letter.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="346">
-                <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+              <first_editor relative-caret-position="211">
+                <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
                 <folding>
                   <marker date="1554202106964" expanded="true" signature="955:1068" ph="{...}" />
                   <marker date="1554202106964" expanded="true" signature="1115:1423" ph="{...}" />
                   <marker date="1554202106964" expanded="true" signature="1302:1421" ph="{...}" />
                   <marker date="1554202106964" expanded="true" signature="1421:1423" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-04-04-【One topic per day】Persistent Bugger.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-【One topic per day】Persistent Bugger.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="471">
+                <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+                <folding>
+                  <marker date="1554257917124" expanded="true" signature="546:633" ph="//..." />
+                  <marker date="1554257917124" expanded="true" signature="659:754" ph="//..." />
+                  <marker date="1554257917124" expanded="true" signature="865:1028" ph="{...}" />
+                  <marker date="1554257917124" expanded="true" signature="915:1026" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -300,6 +303,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-31-【One topic per day】Bit Counting.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-02-【One topic per day】Sum of two lowest positive integers.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-03-【One topic per day】Find the missing letter.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-04-【One topic per day】Persistent Bugger.md" />
       </list>
     </option>
   </component>
@@ -434,12 +438,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="4166000" />
+      <workItem from="1553589772859" duration="5344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68204000" />
+    <option name="totallyTimeSpent" value="69382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="6" />
@@ -477,7 +481,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-github-cup.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1002,13 +1005,29 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-03-【One topic per day】Find the missing letter.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="346">
-            <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          <first_editor relative-caret-position="211">
+            <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
             <folding>
               <marker date="1554202106964" expanded="true" signature="955:1068" ph="{...}" />
               <marker date="1554202106964" expanded="true" signature="1115:1423" ph="{...}" />
               <marker date="1554202106964" expanded="true" signature="1302:1421" ph="{...}" />
               <marker date="1554202106964" expanded="true" signature="1421:1423" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-【One topic per day】Persistent Bugger.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="471">
+            <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+            <folding>
+              <marker date="1554257917124" expanded="true" signature="546:633" ph="//..." />
+              <marker date="1554257917124" expanded="true" signature="659:754" ph="//..." />
+              <marker date="1554257917124" expanded="true" signature="865:1028" ph="{...}" />
+              <marker date="1554257917124" expanded="true" signature="915:1026" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
