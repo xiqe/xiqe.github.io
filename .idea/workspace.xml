@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-06-【One topic per day】Sum of odd numbers.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-07-【One topic per day】Take a Ten Minute Walk.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-09-【One topic per day】Isograms.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,24 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2019-03-28-【One topic per day】Directions Reduction.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-28-【One topic per day】Directions Reduction.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-                <folding>
-                  <marker date="1553677217064" expanded="true" signature="1444:1692" ph="{...}" />
-                  <marker date="1553677217064" expanded="true" signature="1564:1685" ph="{...}" />
-                  <marker date="1553677217064" expanded="true" signature="1606:1631" ph="{...}" />
-                  <marker date="1553677217064" expanded="true" signature="1637:1665" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2019-03-29-【One topic per day】Exes and Ohs.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-【One topic per day】Exes and Ohs.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -168,16 +149,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-04-07-【One topic per day】Take a Ten Minute Walk.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-04-07-【One topic per day】Take a Ten Minute Walk.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-07-【One topic per day】Take a Ten Minute Walk.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="478">
-                <caret line="38" column="3" lean-forward="false" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              <first_editor relative-caret-position="298">
+                <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
                 <folding>
                   <marker date="1554524361456" expanded="true" signature="1610:1810" ph="{...}" />
                   <marker date="1554524361456" expanded="true" signature="1695:1747" ph="{...}" />
                   <marker date="1554524361456" expanded="true" signature="1808:1810" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-04-09-【One topic per day】Isograms.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-09-【One topic per day】Isograms.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="465">
+                <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+                <folding>
+                  <marker date="1554809794649" expanded="true" signature="680:739" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -270,6 +266,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-05-【One topic per day】Basic Nico variation.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-06-【One topic per day】Sum of odd numbers.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-07-【One topic per day】Take a Ten Minute Walk.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-09-【One topic per day】Isograms.md" />
       </list>
     </option>
   </component>
@@ -404,12 +401,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="6523000" />
+      <workItem from="1553589772859" duration="7124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70561000" />
+    <option name="totallyTimeSpent" value="71162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="0" />
@@ -447,13 +444,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.tagcloud.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1017,12 +1007,25 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-07-【One topic per day】Take a Ten Minute Walk.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="38" column="3" lean-forward="false" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <first_editor relative-caret-position="298">
+            <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
             <folding>
               <marker date="1554524361456" expanded="true" signature="1610:1810" ph="{...}" />
               <marker date="1554524361456" expanded="true" signature="1695:1747" ph="{...}" />
               <marker date="1554524361456" expanded="true" signature="1808:1810" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-09-【One topic per day】Isograms.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <folding>
+              <marker date="1554809794649" expanded="true" signature="680:739" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
