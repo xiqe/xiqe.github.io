@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-12-【One topic per day】Is n divisible by x and y.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-15-【One topic per day】Printer Errors.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,21 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2019-04-02-【One topic per day】Sum of two lowest positive integers.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-02-【One topic per day】Sum of two lowest positive integers.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-                <folding>
-                  <marker date="1554124293396" expanded="true" signature="691:758" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2019-04-03-【One topic per day】Find the missing letter.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-03-【One topic per day】Find the missing letter.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -168,15 +153,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-04-12-【One topic per day】Is n divisible by x and y.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-04-12-【One topic per day】Is n divisible by x and y.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-【One topic per day】Is n divisible by x and y.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
                 <folding>
                   <marker date="1555033346450" expanded="true" signature="771:810" ph="{...}" />
                   <marker date="1555033346450" expanded="true" signature="808:810" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-04-15-【One topic per day】Printer Errors.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-15-【One topic per day】Printer Errors.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="583">
+                <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+                <folding>
+                  <marker date="1555308096176" expanded="true" signature="1403:1544" ph="{...}" />
+                  <marker date="1555308096176" expanded="true" signature="1478:1525" ph="{...}" />
+                  <marker date="1555308096176" expanded="true" signature="1542:1544" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -220,7 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pwa/manifest.json" />
         <option value="$PROJECT_DIR$/about.html" />
@@ -271,6 +272,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-10-【One topic per day】Descending Order.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-11-【One topic per day】Disemvowel Trolls.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-12-【One topic per day】Is n divisible by x and y.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-15-【One topic per day】Printer Errors.md" />
       </list>
     </option>
   </component>
@@ -405,12 +407,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="8488000" />
+      <workItem from="1553589772859" duration="9914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72526000" />
+    <option name="totallyTimeSpent" value="73952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="0" />
@@ -448,13 +450,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1044,11 +1039,26 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-12-【One topic per day】Is n divisible by x and y.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             <folding>
               <marker date="1555033346450" expanded="true" signature="771:810" ph="{...}" />
               <marker date="1555033346450" expanded="true" signature="808:810" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-15-【One topic per day】Printer Errors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            <folding>
+              <marker date="1555308096176" expanded="true" signature="1403:1544" ph="{...}" />
+              <marker date="1555308096176" expanded="true" signature="1478:1525" ph="{...}" />
+              <marker date="1555308096176" expanded="true" signature="1542:1544" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
