@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="" />
+    <list default="true" id="7cca5aae-0085-45a0-bad2-34df744cdf51" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-04-23-【One topic per day】Sum of Digits Digital Root.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,24 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2019-04-04-【One topic per day】Persistent Bugger.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-04-【One topic per day】Persistent Bugger.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
-                <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-                <folding>
-                  <marker date="1554257917124" expanded="true" signature="546:633" ph="//..." />
-                  <marker date="1554257917124" expanded="true" signature="659:754" ph="//..." />
-                  <marker date="1554257917124" expanded="true" signature="865:1028" ph="{...}" />
-                  <marker date="1554257917124" expanded="true" signature="915:1026" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2019-04-05-【One topic per day】Basic Nico variation.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-05-【One topic per day】Basic Nico variation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -165,7 +150,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-04-16-【One topic per day】Time Degrees.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-04-16-【One topic per day】Time Degrees.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-16-【One topic per day】Time Degrees.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -174,6 +159,22 @@
                 <folding>
                   <marker date="1555378664961" expanded="true" signature="1571:1759" ph="{...}" />
                   <marker date="1555378664961" expanded="true" signature="1755:1759" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-04-23-【One topic per day】Sum of Digits Digital Root.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-04-23-【One topic per day】Sum of Digits Digital Root.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="583">
+                <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+                <folding>
+                  <marker date="1556011210100" expanded="true" signature="961:990" ph="{...}" />
+                  <marker date="1556011210100" expanded="true" signature="1029:1157" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -217,7 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pwa/manifest.json" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_posts/2018-12-20-前端响应式布局解决方案.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-24-从零快速搭建Next框架教程.md" />
@@ -268,6 +268,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-12-【One topic per day】Is n divisible by x and y.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-15-【One topic per day】Printer Errors.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-16-【One topic per day】Time Degrees.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-04-23-【One topic per day】Sum of Digits Digital Root.md" />
       </list>
     </option>
   </component>
@@ -402,12 +403,12 @@
       <workItem from="1552893279921" duration="56000" />
       <workItem from="1553076149844" duration="35000" />
       <workItem from="1553239688555" duration="2035000" />
-      <workItem from="1553589772859" duration="10120000" />
+      <workItem from="1553589772859" duration="10773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74158000" />
+    <option name="totallyTimeSpent" value="74811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="0" />
@@ -445,16 +446,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-20-前端响应式布局解决方案.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="131">
-            <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -1061,6 +1052,20 @@
             <folding>
               <marker date="1555378664961" expanded="true" signature="1571:1759" ph="{...}" />
               <marker date="1555378664961" expanded="true" signature="1755:1759" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-23-【One topic per day】Sum of Digits Digital Root.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="583">
+            <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <folding>
+              <marker date="1556011210100" expanded="true" signature="961:990" ph="{...}" />
+              <marker date="1556011210100" expanded="true" signature="1029:1157" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
